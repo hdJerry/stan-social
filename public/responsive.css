@@ -177,6 +177,11 @@ weird phones like pixel2 iphone 6,7,8 with screen size between 411 and 414
      margin-top: 100px !important;
  }
 
+   .left .reg-btn {
+       margin-left: -230px !important;
+       margin-top: 40px!important;
+   }
+
  .left .caption {
      font-size: 1.8rem !important;
      line-height: 1.8rem !important;
