@@ -18,14 +18,14 @@
         
         <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="text" placeholder="First Name" class="form-field"/>
                 <i class="fa fa-user-o input-icon"></i>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="text" placeholder="Last Name" class="form-field"/>
                 <i class="fa fa-user-o input-icon"></i>
             </div>
         </div>
@@ -33,14 +33,14 @@
         <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="password" placeholder="Password" class="form-field"/>
                  <i class="fa fa-eye-slash input-icon"></i>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="email" placeholder="Email Address" class="form-field"/>
                  <i class="fa fa-envelope-o input-icon"></i>
             </div>
         </div>
@@ -49,14 +49,14 @@
      <div class="col-lg-2 col-md-2 col-sm-12"/>
      <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="text" placeholder="Phone Number" class="form-field"/>
                 <i class="fa fa-mobile input-icon"></i>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="text" placeholder="Residential Address" class="form-field"/>
                 <i class="fa fa-map-marker input-icon"></i>
             </div>
         </div>
@@ -65,14 +65,14 @@
      <div class="col-lg-2 col-md-2 col-sm-12"/>
      <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="text" placeholder="Country" class="form-field"/>
                  <i class="fa fa-flag-o input-icon"></i>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="text" placeholder="Occupation" class="form-field"/>
                  <i class="fa fa-suitcase input-icon"></i>
             </div>
         </div>
@@ -81,15 +81,15 @@
      <div class="col-lg-2 col-md-2 col-sm-12"/>
      <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-4 col-md-4 col-sm-12">
-            <div class="form-groupx">
-                <input type="text" placeholder="" class="form-field"/>
+            <div class="form-groupx non-social">
+                <input type="text" placeholder="Products you won’t promote" class="form-field"/>
                 <i class="fa fa-exclamation-circle input-icon"></i>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="form-groupx socials-form">
-                <input type="text" placeholder="" class="form-field"/>
-                <input type="text" placeholder="" class="form-field input-border-left"/>
+                <input type="text" placeholder="Instagram Handle " class="form-field"/>
+                <input type="text" placeholder="Numbers of Followers " class="form-field input-border-left"/>
                 <i class="fa fa-instagram input-icon"></i>
             </div>
         </div>
@@ -99,15 +99,15 @@
      <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-4 col-md-4 col-sm-12">
            <div class="form-groupx socials-form">
-                <input type="text" placeholder="" class="form-field"/>
-                <input type="text" placeholder="" class="form-field input-border-left"/>
+                <input type="text" placeholder="Facebook Handle " class="form-field"/>
+                <input type="text" placeholder="Numbers of Followers " class="form-field input-border-left"/>
                 <i class="fa fa-facebook input-icon"></i>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="form-groupx socials-form">
-                <input type="text" placeholder="" class="form-field"/>
-                <input type="text" placeholder="" class="form-field input-border-left"/>
+                <input type="text" placeholder="YouTube Handle " class="form-field"/>
+                <input type="text" placeholder="Numbers of Subscribers " class="form-field input-border-left"/>
                 <i class="fa fa-youtube-play input-icon"></i>
             </div>
         </div>
@@ -116,15 +116,15 @@
      <div class="col-lg-2 col-md-2 col-sm-12"/>
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="form-groupx socials-form">
-                <input type="text" placeholder="" class="form-field"/>
-                <input type="text" placeholder="" class="form-field input-border-left"/>
+                <input type="text" placeholder="Twitter Handle " class="form-field"/>
+                <input type="text" placeholder="Numbers of Followers " class="form-field input-border-left"/>
                 <i class="fa fa-twitter input-icon"></i>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="form-groupx socials-form">
-                <input type="text" placeholder="" class="form-field"/>
-                <input type="text" placeholder="" class="form-field input-border-left"/>
+                <input type="text" placeholder="Linkedin Handle " class="form-field"/>
+                <input type="text" placeholder="Numbers of Connnections" class="form-field input-border-left"/>
                 <i class="fa fa-linkedin input-icon"></i>
             </div>
         </div>
@@ -145,6 +145,13 @@
 
 
 <style lang="scss" scoped>
+
+@mixin formIcons(){
+     position: relative;
+    font-size: 1.0rem;
+    color: #fff;
+    top : 2px;
+}
 
 #contactus{
     margin-top: 100px;
@@ -182,14 +189,25 @@
         outline: none;
         background-color: transparent;
         color: #fff;
-        font-size: 1rem;
+        font-size: 0.7rem;
+        text-align: left;
     }
 
     .input-icon{
-        position: relative;
-        font-size: 1.0rem;
-        color: #fff;
-        top : 2px;
+
+        @include formIcons();
+        right: -25px;
+    }
+}
+
+.non-social{
+
+    input{
+        width: 80%;
+    }
+
+    .input-icon{
+        @include formIcons();
         right: -25px;
     }
 }
@@ -199,6 +217,14 @@
    input{
        width: 120px;
    }
+
+   .input-icon{
+        position: relative;
+        font-size: 1.0rem;
+        color: #fff;
+        top : 2px;
+        right: -25px;
+    }
 
    .input-border-left{
        border-left: 1px solid #fff;
