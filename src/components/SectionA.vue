@@ -4,7 +4,7 @@
       <div class="row">
 
       <div class="col-lg-1 col-md-1 col-sm-12"></div>
-      <div class="col-lg-5 col-md-5 col-sm-12 left-section">
+      <div class="col-lg-6 col-md-5 col-sm-12 left-section">
 
           <p class="caption">
               Start earning with your social media

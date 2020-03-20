@@ -16,6 +16,8 @@
         color: #fff !important;
     }
 
+     
+
 }
 
 /*
@@ -46,18 +48,8 @@
      right: 100px!important;
 
  }
-.nav-list{
-    background-color: #fff!important;
-}
-
-.nav-item .reg-btn{
-    color: #fff !important;
-    margin: 0px auto!important;
-    padding: 15px 0!important;
-    border-radius: 0 0 0 0!important;
-}
  .nav-item a {
-     color: #292D33 !important;
+     color: #fff!important;
  }
 
 }
@@ -87,6 +79,7 @@
  }
 .nav-list{
     background-color: #fff!important;
+    margin-top: 10px !important;
 }
 
 .nav-item .reg-btn{
@@ -98,6 +91,53 @@
  .nav-item a {
      color: #292D33 !important;
  }
+
+  .left {
+      margin-top: 100px !important;
+  }
+
+  .left .reg-btn{
+      margin-left: -190px!important;
+  }
+
+  .left .caption {
+      font-size: 2.8rem !important;
+      line-height: 2.8rem !important;
+  }
+
+  .bannerimg {
+      margin-left: -95px !important;
+      /* width: 700px !important; */
+      margin-top: -30px !important;
+  }
+
+  .img {
+      width: 380px !important;
+      margin-left: 25px !important;
+      margin-top: 5px !important;
+  }
+
+
+   .left-section {
+
+       margin-left: -5px !important;
+       padding-left: 50px!important;
+   }
+
+    .left-section .caption {
+        font-size: 2.2rem !important;
+        line-height: 2.2rem !important;
+        margin-left: 30px!important;
+    }
+
+
+    .left-section .perks {
+        margin-left: 30px !important;
+    }
+
+
+
+
 
 }
 
@@ -222,6 +262,11 @@ weird phones like pixel2 iphone 6,7,8 with screen size between 411 and 414
      font-size: 0.8rem !important;
      margin-top: -15px !important;
  }
+
+
+ 
+
+
 }
 
 

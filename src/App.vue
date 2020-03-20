@@ -6,11 +6,11 @@
 
    <SectionA/>
 
-   <SectionB/>
+    <SectionB/>
 
    <Contactus/>
 
-  <Footer/>
+   <Footer/>
   </div>
 </template>
 
