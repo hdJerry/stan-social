@@ -164,6 +164,7 @@ weird phones like pixel2 iphone 6,7,8 with screen size between 411 and 414
  }
 .nav-list{
     background-color: #fff!important;
+    margin-top: 10px!important;
 }
 
 .nav-item .reg-btn{
@@ -254,4 +255,14 @@ weird phones like pixel2 iphone 6,7,8 with screen size between 411 and 414
      .input-icon {
          right: -5px!important;
      }
+
+
+      .caption-div .caption {
+          font-size: 1.8rem!important;
+      }
+
+     .caption-div .sub-caption {
+          font-size: 0.8rem!important;
+          margin-top: -15px!important;
+      }
 }

@@ -218,6 +218,12 @@
     border-radius: 30px;
     border: none;
     margin: 20px auto;
+
+    &:focus{
+        outline: none;
+    }
+
 }
+
 
 </style>

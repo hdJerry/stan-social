@@ -73,6 +73,10 @@ export default {
 .navbar button.navbar-toggler {
   border: 2px solid #fff;
   padding: 2px;
+
+  &:focus{
+        outline: none;
+    }
 }
 .navbar .menu-icon {
   display: block;
