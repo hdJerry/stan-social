@@ -215,7 +215,7 @@
 .socials-form{
    
    input{
-       width: 120px;
+       width: 40%;
    }
 
    .input-icon{
