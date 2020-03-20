@@ -1,0 +1,251 @@
+/**********************
+ Media Query for Mobile
+***********************/
+
+
+/*
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+  
+
+    .nav-item a {
+        color: #fff !important;
+    }
+
+}
+
+/*
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+.nav-item a {
+    color: #fff !important;
+}
+
+}
+
+/*
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+    #nav {
+     padding: 20px!important;
+     top: 0;
+     left: 100px!important;
+     right: 100px!important;
+
+ }
+.nav-list{
+    background-color: #fff!important;
+}
+
+.nav-item .reg-btn{
+    color: #fff !important;
+    margin: 0px auto!important;
+    padding: 15px 0!important;
+    border-radius: 0 0 0 0!important;
+}
+ .nav-item a {
+     color: #292D33 !important;
+ }
+
+}
+
+/*
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    
+}
+
+/*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+ #nav {
+     padding: 20px!important;
+     top: 0;
+     left: 0!important;
+     right: 0!important;
+
+ }
+.nav-list{
+    background-color: #fff!important;
+}
+
+.nav-item .reg-btn{
+    color: #fff !important;
+    margin: 0px auto!important;
+    padding: 15px 0!important;
+    border-radius: 0 0 0 0!important;
+}
+ .nav-item a {
+     color: #292D33 !important;
+ }
+
+}
+
+
+
+/*
+weird phones like pixel2 iphone 6,7,8 with screen size between 411 and 414
+
+*/
+
+@media (min-width: 411px) and (max-width: 440px) {
+ #nav {
+     padding: 20px !important;
+     top: 0;
+     left: 0 !important;
+     right: 0 !important;
+
+ }
+
+ .nav-list {
+     background-color: #fff !important;
+ }
+
+.nav-item .reg-btn {
+    color: #fff !important;
+    margin: 0px auto !important;
+    padding: 15px 0 !important;
+    border-radius: 4px 4px 0 0;
+}
+ .nav-item a{
+     color: #292D33 !important;
+ }
+
+
+ .left .caption{
+     font-size: 1.5rem!important;
+ }
+
+ .bannerimg {
+     margin-left: -125px !important;
+ }
+
+ .img {
+     width: 325px !important;
+     margin-left: -5px !important;
+ }
+
+}
+
+
+
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+ #nav {
+     padding: 20px!important;
+     top: 0;
+     left: 0!important;
+     right: 0!important;
+
+ }
+.nav-list{
+    background-color: #fff!important;
+}
+
+.nav-item .reg-btn{
+    color: #fff !important;
+    margin: 0px auto!important;
+    padding: 15px 0!important;
+    border-radius: 0 0 0 0!important;
+}
+ .nav-item a {
+     color: #292D33 !important;
+ }
+
+ .left{
+     margin-top: 100px!important;
+ }
+
+ .left .caption {
+     font-size: 1.8rem !important;
+     line-height: 1.8rem!important;
+ }
+
+ .bannerimg{
+     margin-left: -95px!important;
+     width: 700px!important;
+     margin-top: -30px!important;
+ }
+
+ .img{
+     width: 250px!important;
+     margin-left: -12px!important;
+     margin-top: -5px!important;
+ }
+
+
+ 
+
+.sub-sec-b  span {
+    margin: 5px!important;
+    font-size: 0.7rem!important;
+}
+
+ .sub-sec-b img {
+     width: 15px!important;
+     top: -25px!important;
+     left: 20px!important;
+ }
+
+ .left-section {
+
+     margin-left: 5px!important;
+ }
+
+ .left-section .caption {
+     font-size: 1.8rem!important;
+     line-height: 1.8rem!important;
+ }
+
+ .pork-logo{
+     width: 300px!important;
+     margin-left:-10px!important;
+ }
+
+ .pork-connect{
+     margin-left: -10px;
+ }
+
+ .pork-socials{
+     margin-left: -10px;
+ }
+
+ .pork-socials a{
+         width: 40px!important;
+         height: 40px!important;
+         padding-top: 1px!important;
+     }
+
+     .main-logo{
+         width: 300px!important;
+     margin-left:-10px!important;
+     }
+     .pork-links a{
+        font-size: 0.8rem!important;
+        margin-left: 10px!important;
+     }
+}
